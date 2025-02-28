@@ -1,0 +1,12 @@
+# Ignore Node.js dependencies (if mistakenly added at root)
+node_modules/
+
+# Ignore IntelliJ, VSCode, and Mac system files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore build artifacts
+dist/
+target/
+build/
