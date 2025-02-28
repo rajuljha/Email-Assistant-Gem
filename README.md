@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./email-writer-ext/logo.png" alt="Logo" width="450" height="450">
+</p>
+
 # Email Writer Gem
 This is a multi-project repository containing:
 
